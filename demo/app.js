@@ -3,6 +3,7 @@ const openIdUrl = require('./config').openIdUrl
 App({
   onLaunch: function () {
     console.log('App Launch')
+    // 历史的变化
   },
   onShow: function () {
     console.log('App Show')
