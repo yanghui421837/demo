@@ -1,0 +1,6 @@
+.page-body-info {
+  background-color: white;
+}
+.btn-area{
+  margin-top: 300rpx;
+}
